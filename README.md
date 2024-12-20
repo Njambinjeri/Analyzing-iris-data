@@ -85,6 +85,7 @@ p2<-ggplot(TestingSet,aes(Sepal.Length,Petal.Length,color=Species))+
   geom_point()+
   scale_color_manual(values=c("#135029","#E1AD01","#E2725B"))+
   ggtitle("Testing Set")
+
 p2
 #show the plots side by side
 multi_plot<-grid.arrange(p1,p2,ncol=2)
@@ -101,6 +102,7 @@ multi_plot
 ![plot1](https://github.com/user-attachments/assets/a17adb00-81ed-4faa-bc63-b11ef5c8e0b5)
 
 
+![plot2_page-0001 (1)](https://github.com/user-attachments/assets/ef0d0421-7af3-44f2-8dd0-0b623954c3d4)
 
 
 
