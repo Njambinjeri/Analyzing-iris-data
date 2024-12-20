@@ -98,6 +98,7 @@ multi_plot
 
 
 
+![plot1](https://github.com/user-attachments/assets/a17adb00-81ed-4faa-bc63-b11ef5c8e0b5)
 
 
 
